@@ -10,7 +10,7 @@ npm link/sudo npm link （删除npm链接   npm unlink）
 itcustom init tpl-a <project-name>
 ```
 
-##命令行参数设置
+## 命令行参数设置
 
 ```
 itcustom -h|--help 查看帮助
@@ -19,7 +19,7 @@ itcustom list 列出所有可用模板
 itcustom init <template-name>  <project-name> 初始化可用模板
 ```
 
-##npm 发包教程
+## npm 发包教程
 
 ```
 1、打开npmjs.com官网
